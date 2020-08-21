@@ -1,0 +1,208 @@
+.BodyStyle {
+    background-color: #121212;
+}
+
+.navtop {
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    z-index: 999;
+}
+
+.Snav {
+    background-color: #2a2a2a;
+}
+
+.navbar {
+    margin-bottom: 0px;
+    border-radius: 0px;
+}
+
+.navbar-default {
+    background-color: #2a2a2a;
+    border: 0px;
+    border-color: transparent;
+}
+
+.navbar-toggle {
+    position: relative;
+    float: right;
+    padding: 18px 18px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-color: transparent;
+    background-image: none;
+    border: 0px solid transparent;
+    border-radius: 0px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #C0C0C0;
+}
+
+.search-area {
+    padding: 20px 0;
+}
+
+.colstyle {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.xacss {
+    color: rgb(160, 160, 160);
+    font-size: 10px;
+    height: 34px;
+    line-height: 34px;
+}
+
+.xacss:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.mw {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.dropdown-menu {
+    background-color: rgb(43, 43, 43);
+}
+
+.dropdown-menu li {
+    margin: 5px 0px;
+}
+
+.dropdown-menu li a {
+    color: white;
+}
+
+.sort-button {
+    width: 100%;
+    color: rgb(160, 160, 160);
+    background-color: transparent;
+}
+
+.sort-button:hover {
+    color: white;
+}
+
+.game {
+    padding: 20px 10px;
+}
+
+.game div {
+    margin-top: 10px;
+}
+
+.game a {
+    display: block;
+    background-color: #ffffff;
+}
+
+.game a:hover .g-area-lei {
+    opacity: 0.9;
+}
+
+.game a:hover img {
+    opacity: 0.9;
+}
+
+.game-label-area {
+    margin-left: 20px;
+}
+
+.game-label-area h5 {
+    color: white;
+    padding-bottom: 20px;
+}
+
+.game-label-area a {
+    /* margin-left: 18px; */
+    line-height: 50px;
+    color: rgb(160, 160, 160);
+}
+
+.game-label-area a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.footer {
+    padding: 0px 70px 40px 70px;
+    background-color: rgb(42, 42, 42);
+}
+
+.footer-icon {
+    margin: 36px -16px;
+}
+
+.footer-label {
+    float: left;
+}
+
+.footer-label a {
+    line-height: 50px;
+    color: #BBBBBB;
+}
+
+.footer-label a:hover {
+    text-decoration: none;
+    color: rgb(109, 109, 109);
+}
+
+.footer-top {
+    float: right;
+    text-align: right;
+}
+
+.footer-label img:hover {
+    background: rgb(42, 42, 42);
+    opacity: 0.7;
+}
+
+.footer-top img:hover {
+    background: rgb(42, 42, 42);
+    opacity: 0.7;
+}
+
+.footer-link-area {
+    border-bottom: 1px solid rgb(51, 51, 51);
+    padding-bottom: 10px;
+}
+
+.footer-h5 {
+    color: rgb(107, 107, 107);
+}
+
+.footer-link {
+    float: left;
+    margin: 0 16px 6px 0;
+}
+
+.footer-link a {
+    color: #BBBBBB;
+    line-height: 26px;
+}
+
+.footer-link a:hover {
+    color: rgb(109, 109, 109);
+    text-decoration: none;
+}
+
+@media screen and (max-width:800px) {
+    .footer {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+
+.footer-zhu {
+    margin: 30px 0px;
+}
+
+.footer-zhu p {
+    color: #BBBBBB;
+}

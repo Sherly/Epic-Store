@@ -1,0 +1,376 @@
+D:\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\netWebserver\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第7讲 Bootstrap插件\附加：轮播插件之接口读取数据库\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\01、教学文档\2019年秋期《Web前端开源框架应用》\第8讲 综合应用\附加：轮播插件之net接口读取MySQL数据库\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\实训\附加：轮播插件之net接口读取MySQL数据库【最终版】\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\AAA\netWebserver\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\AAA\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\AAA\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\AAA\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\AAA\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\AAA\netWebserver\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

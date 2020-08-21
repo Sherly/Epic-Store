@@ -1,0 +1,753 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" I content="width=device-width, initial-scale=1">
+    <title>Index</title>
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap-theme.css">
+    <link href="css/index.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css">
+    <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
+    <script src="https://unpkg.com/swiper/js/swiper.js"> </script>
+    <script src="https://unpkg.com/swiper/js/swiper.min.js"> </script>
+
+    <script src="jQuery/jquery.min-2.1.1.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+
+
+    <style>
+        .swiper-container {
+            --swiper-theme-color: #ff6600;
+            /* 设置Swiper风格 */
+            --swiper-navigation-color: #ff6600;
+            /* 单独设置按钮颜色 */
+            --swiper-navigation-size: 40px;
+            /* 设置按钮大小 */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container-fluid BodyStyle">
+        <div class="row navtop">
+            <nav class="navbar navbar-default" role="navigation">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse"
+                            data-target="#example-navbar-collapse">
+                            <span class="sr-only">切换导航</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="index.html"><img src="images/Logo/Epic.png"
+                                style="width: 30px; margin-top: -8px;" alt="error!"></a>
+                    </div>
+                    <div class="collapse navbar-collapse" id="example-navbar-collapse">
+                        <ul class="nav navbar-nav navbar-left">
+                            <li class=""><a href="Browse.html">STORE</a></li>
+                            <li><a href="#">NEWS</a></li>
+                            <li><a href="#">FAQ</a></li>
+                            <li><a href="#">HELP</a></li>
+                            <li><a href="https://www.unrealengine.com/">UNREAL ENGINE</a></li>
+                        </ul>
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="login.html"><img src="images/Icon/zh.png"><span id="singIn">SIGN IN</span></a>
+                            </li>
+                            <li><a style="color: rgb(35, 137, 255);"
+                                    href="https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi?trackingId=db1a0a416da543288f393adb12045e6b">GET
+                                    EPIC GAMES</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+
+        <div class="row" style="height: 52px;">
+            <!-- /顶部导航占位 -->
+        </div>
+
+        <div class="row mw search-area">
+            <div class="col-xs-4 col-md-3 colstyle">
+                <!-- /小导航 -->
+                <a class="xacss" href="index.html">Discover</a>&nbsp;&nbsp;&nbsp;
+                <a class="xacss" href="Browse.html">Browse</a>
+            </div>
+            <div class="col-xs-8 col-md-3 colstyle" style="float: right;">
+                <!-- /搜索框 -->
+                <form class="bs-example bs-example-form" role="form">
+                    <div class="input-group">
+                        <input type="text" class="form-control">
+                        <span class="input-group-btn">
+                            <button class="btn btn-default" type="button">Search</button>
+                        </span>
+                    </div><!-- /input-group -->
+                </form>
+            </div>
+        </div>
+
+        <div class="row mw lunbo-area">
+            <!-- /轮播 -->
+            <div class="swiper-container">
+                <div class="swiper-wrapper" id="lunbo">
+                    <!-- <div class="swiper-slide"><img src="images/lunbo/lunbo1.png" class="img-wrapper" alt="Image"></div>
+                    <div class="swiper-slide"><img src="images/lunbo/lunbo2.png" class="img-wrapper" alt="Image"></div>
+                    <div class="swiper-slide"><img src="images/lunbo/lunbo3.png" class="img-wrapper" alt="Image"></div> -->
+                </div>
+                <div class="swiper-pagination"></div><!-- /轮播点点 -->
+                <div class="swiper-button-prev"></div>
+                <!--左箭头。如果放置在swiper-container外面，需要自定义样式。-->
+                <div class="swiper-button-next"></div>
+                <!--右箭头。如果放置在swiper-container外面，需要自定义样式。-->
+            </div>
+        </div>
+
+        <div class="row mw" style="margin-bottom: 10px;">
+            <!-- /Black Friday Sale -->
+            <div class="col-xs-5 col-md-3">
+                <!-- /类别 -->
+                <span class="spancss">Black Friday Sale</span>
+            </div>
+            <div class="col-xs-7 col-md-2" style="float: right;">
+                <!-- /按钮 -->
+                <a href="Browse.html"><button type="button" class="btncss">SEE ALL DEALS</button></a>
+            </div>
+        </div>
+        <div class="row mw g-area">
+            <div class="col-md-12 colstyle" id="showbfd">
+                <!-- <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div> -->
+            </div>
+        </div>
+
+        <div class="row mw" style="margin-bottom: 10px;">
+            <!-- /New Releases -->
+            <div class="col-xs-5 col-md-3">
+                <!-- /类别 -->
+                <span class="spancss">New Releases</span>
+            </div>
+        </div>
+        <div class="row mw g-area">
+            <div class="col-md-12 colstyle" id="showbnr">
+                <!-- <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div> -->
+            </div>
+        </div>
+
+        <div class="row mw" style="margin-bottom: 10px;">
+            <div class="col-xs-6 col-md-3">
+                <!-- /Free Game Every Week -->
+                <span class="spancss">Free Game Every Week</span>
+            </div>
+        </div>
+        <div class="row mw g-area">
+            <div class="col-md-12 colstyle" id="showFG">
+                <!-- <div class="col-md-6 colstyle freek">
+                    <a class="freep" href="#"><img src="images/free/free1.png" style="width: 100%;">
+                        <div class="freegame-now">Free Now</div>
+                    </a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                </div>
+                <div class="col-md-6 colstyle freek">
+                    <a class="freep" href="#"><img src="images/free/free2.png" style="width: 100%;">
+                        <div class="freegame-soon">Coming Soon</div>
+                    </a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                </div> -->
+            </div>
+        </div>
+
+        <div class="row mw" style="margin-bottom: 10px;">
+            <!-- /Top Sellers -->
+            <div class="col-xs-5 col-md-3">
+                <!-- /类别 -->
+                <span class="spancss">Top Sellers</span>
+            </div>
+            <div class="col-xs-7 col-md-2" style="float: right;">
+                <!-- /按钮 -->
+                <a href="Browse.html"><button type="button" class="btncss">VIEW MORE</button></a>
+            </div>
+        </div>
+        <div class="row mw g-area">
+            <div class="col-md-12 colstyle">
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mw" style="margin-bottom: 10px;">
+            <!-- /Pre-Purchase -->
+            <div class="col-xs-5 col-md-3">
+                <!-- /类别 -->
+                <span class="spancss">Pre-Purchase</span>
+            </div>
+        </div>
+        <div class="row mw g-area freek">
+            <div class="col-md-12 colstyle"
+                style="background: linear-gradient(to right bottom, rgb(40, 80, 111), rgb(118, 223, 216));">
+                <div class="col-md-6 colstyle g-area-dan-fk">
+                    <h4>Wattam</h4>
+                    <p>Explore the weird, wild, wacky, whimsical world of Wattam.</p>
+                    <a class="fka1" href="BuyGames.html">PRE-PURCHASE NOW</a>
+                </div>
+                <div class="col-md-6 colstyle">
+                    <img src="images/store/backg.png" style="width: 100%;">
+                </div>
+            </div>
+        </div>
+
+        <div class="row mw" style="margin-bottom: 10px;">
+            <!-- /Comig Soon -->
+            <div class="col-xs-5 col-md-3">
+                <!-- /类别 -->
+                <span class="spancss">Comig Soon</span>
+            </div>
+        </div>
+        <div class="row mw g-area">
+            <div class="col-md-12 colstyle">
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mw" style="margin-bottom: 10px;">
+            <!-- /Afterparty -->
+            <div class="col-xs-5 col-md-3">
+                <!-- /类别 -->
+                <span class="spancss">Afterparty</span>
+            </div>
+        </div>
+        <div class="row mw g-area freek">
+            <div class="col-md-12 colstyle" style="background-color: rgb(70, 4, 97);">
+                <div class="col-md-6 colstyle g-area-dan-fk">
+                    <h4>Afterparty</h4>
+                    <p>Party your way through the afterlife and out-drink Satan to get back to Earth. Bottoms up!</p>
+                    <a class="fka2" href="BuyGames.html">OUT NOW</a>
+                </div>
+                <div class="col-md-6 colstyle">
+                    <img src="images/store/backg2.png" style="width: 100%;">
+                </div>
+            </div>
+        </div>
+
+        <div class="row mw" style="margin-bottom: 10px;">
+            <!-- /Most Popular -->
+            <div class="col-xs-5 col-md-3">
+                <!-- /类别 -->
+                <span class="spancss">Most Popular</span>
+            </div>
+            <div class="col-xs-7 col-md-2" style="float: right;">
+                <!-- /按钮 -->
+                <a href="Browse.html"><button type="button" class="btncss">VIEW MORE</button></a>
+            </div>
+        </div>
+        <div class="row mw g-area">
+            <div class="col-md-12 colstyle">
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+                <div class="gb">
+                    <a href="#"><img src="images/store/game2.png" style="width: 100%;"></a>
+                    <span>game name</span>
+                    <br>
+                    <span>gamejieshao</span>
+                    <div>￥</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mw" style="margin-bottom: 10px;">
+            <!-- /Popular Categories -->
+            <div class="col-xs-6 col-md-3">
+                <!-- /类别 -->
+                <span class="spancss">Popular Categories</span>
+            </div>
+        </div>
+        <div class="row mw g-area">
+            <div class="col-md-12 colstyle">
+                <div class="gb">
+                    <a href="Browse.html">
+                        <div class="g-area-lei" style="background-image: url(images/lei/Action.jpg);">
+                            <span>Action</span>
+                        </div>
+                    </a>
+                </div>
+                <div class="gb">
+                    <a href="Browse.html">
+                        <div class="g-area-lei" style="background-image: url(images/lei/RPG.jpg);">
+                            <span>RPG</span>
+                        </div>
+                    </a>
+                </div>
+                <div class="gb">
+                    <a href="Browse.html">
+                        <div class="g-area-lei" style="background-image: url(images/lei/Shooter.jpg);">
+                            <span>Shooter</span>
+                        </div>
+                    </a>
+                </div>
+                <div class="gb">
+                    <a href="Browse.html">
+                        <div class="g-area-lei" style="background-image: url(images/lei/Strategy.jpg);">
+                            <span>Strategy</span>
+                        </div>
+                    </a>
+                </div>
+                <div class="gb">
+                    <a href="Browse.html">
+                        <div class="g-area-lei" style="background-image: url(images/lei/Puzzle.jpg);">
+                            <span>Puzzle</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mw" style="margin-bottom: 10px;">
+            <!-- /Epic Games Store Catalog -->
+            <div class="col-xs-6 col-md-3">
+                <!-- /类别 -->
+                <span class="spancss">Epic Games Store Catalog</span>
+            </div>
+        </div>
+        <div class="row mw g-area freek">
+            <div class="col-md-12 colstyle" style="background-color: rgb(42,42,42);">
+                <div class="col-md-6 colstyle g-area-dan-fk">
+                    <h4>Browse</h4>
+                    <p>Explore our catalog for your next favorite game!</p>
+                    <a class="fka3" href="Browse.html">BROWSE ALL</a>
+                </div>
+                <div class="col-md-6 hidden-xs colstyle">
+                    <img src="images/store/backg3.png" style="width: 100%;">
+                </div>
+            </div>
+        </div>
+
+        <div class="row colstyle footer">
+            <!--/footer-->
+            <div class="row colstyle footer-icon">
+                <!--/facebook twitter icon-->
+                <div class="col-md-6 col-xs-7 footer-label">
+                    <a href="#"><img src="images/Logo/facebook.png">&nbsp;</a>
+                    <a href="#"><img src="images/Logo/twitter.png">&nbsp;</a>
+                    <a href="#"><img src="images/Logo/youtube.png"></a>
+                </div>
+                <div class="col-md-6 col-xs-5 footer-top">
+                    <a href="#"><img src="images/Logo/top.png"></a>
+                </div>
+            </div>
+
+            <div class="row colstyle footer-link-area">
+                <!--/footer link-->
+                <div class="col-md-3 col-xs-12">
+                    <h5 class="footer-h5">资源</h5>
+                    <div class="footer-link">
+                        <a href="#">创作者支持计划</a><br>
+                        <a href="#">在Epic Games上发布</a><br>
+                        <a href="#">职业</a>
+                    </div>
+                    <div class="footer-link">
+                        <a href="#">公司</a><br>
+                        <a href="#">爱好者作品政策</a><br>
+                        <a href="#">用户体验调查</a>
+                    </div>
+                    <div class="footer-link">
+                        <a href="#">商城最终用户授权协议</a><br>
+                        <a href="#">在线服务</a><br>
+                        <a href="#">社区守则</a>
+                    </div>
+                </div>
+                <div class="col-md-9 col-xs-12">
+                    <h5 class="footer-h5">由Epic Games开发</h5>
+                    <div class="footer-link">
+                        <a href="#">Battle Breakers</a><br>
+                        <a href="#">Fortnite</a><br>
+                        <a href="#">Infinity</a><br>
+                        <a href="#">Robo Recall</a>
+                    </div>
+                    <div class="footer-link">
+                        <a href="#">Shadow Complex</a><br>
+                        <a href="#">Spyjinx</a><br>
+                        <a href="#">Unreal Tournament</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row colstyle">
+                <!--/footer zhushi-->
+                <div class="col-md-6 col-xs-12 footer-zhu">
+                    <p>
+                        © 2019, Epic Games, Inc. 版权所有。Epic、Epic Games、Epic
+                        Games标志、Fortnite（堡垒之夜）、Fortnite（堡垒之夜）标志、Unreal（虚幻）、Unreal Engine（虚幻引擎）、Unreal
+                        Engine（虚幻引擎）标志、Unreal Tournament（虚幻竞技场）以及Unreal Tournament（虚幻竞技场）标志属于Epic Games,
+                        Inc.在美利坚合众国及其他地区的商标或已注册商标。其他品牌或产品名称属于其各自拥有者的商标。美国以外事务通过Epic Games International, S.à r.l.办理。
+                    </p>
+                </div>
+            </div>
+
+            <div class="row colstyle">
+                <!--/footer tiaokuan-->
+                <div class="col-md-6 footer-label">
+                    <a href="#">服务条款&nbsp;&nbsp;</a>
+                    <a href="#">隐私政策&nbsp;&nbsp;</a>
+                    <a href="#">商店退款政策</a>
+                </div>
+                <div class="col-md-6 footer-top">
+                    <a href="#"><img src="images/Logo/footer.png" style="width: 30px;"></a>&nbsp;
+                    <a href="#"><img src="images/Logo/unity.png"></a>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+    <script type="text/javascript">
+        //ajax访问WebServer
+        $(document).ready(function () {
+            //var backEndUrl = "http://172.16.145.139/netWebServer/WebService1.asmx/Showshop1";//请根据自身部署情况自行修改端口号
+            var backEndUrl = "http://172.16.145.139/netWebServer/WebService1.asmx/lunbo";
+            $.ajax({
+                type: "POST",
+                url: backEndUrl,
+                data: "", //变量名称一定要与接口形参名称相同 data: "{i: 50,j:60}", 
+                contentType: "application/json;charset=utf-8",
+                dataType: 'json',
+                success: function (data, status, jqXHR) {
+                    // data 是返回的数据
+                    // textStatus 可能为"success"、"notmodified"等
+                    // jqXHR 是经过jQuery封装的XMLHttpRequest对象
+
+                    returnStr = data.d;//返回数据集
+                    //定义一数组用于存放分割数据
+                    var strArray = new Array();
+                    strArray = returnStr.split("|");//字符分割
+                    var tempStr = "";//用于存放轮播指标					
+                    for (var i = 0; i < strArray.length; i++) {
+
+                        tempStr += "<div class='swiper-slide'><img src='" + strArray[i] + "' class='img-wrapper' alt='Image'></div>";
+
+                        //tempStr += "<div class='gb'><a href='#'><img src='" + strArray2[3] + "' style='width: 100%;'></a><span>" + strArray2[0] + "</span><br><span>" + strArray2[1] + "</span><div>$" + strArray2[2] + "</div></div>";
+
+                    }
+                    $("#lunbo").html(tempStr);
+
+                    var mySwiper = new Swiper('.swiper-container', {
+                        loop: true,
+                        effect: 'cube',
+                        autoplay: {
+                            delay: 3000,//3秒切换一次
+                        },
+                        navigation: {
+                            nextEl: '.swiper-button-next',
+                            prevEl: '.swiper-button-prev',
+                        },
+                        pagination: {
+                            el: '.swiper-pagination',
+                            type: 'bullets',
+                        },
+                    })
+
+
+                },
+                error: function () {
+                    alert("error")
+                }
+            });
+        });
+    </script>
+
+    <script type="text/javascript">
+        //ajax访问WebServer
+        $(document).ready(function () {
+
+            var backEndUrl = "http://172.16.145.139/netWebServer/WebService1.asmx/Showshop1";  //请根据自身部署情况自行修改端口号
+            $.ajax({
+                type: "POST",
+                url: backEndUrl,
+                data: "", //变量名称一定要与接口形参名称相同 data: "{i: 50,j:60}", 
+                contentType: "application/json;charset=utf-8",
+                dataType: 'json',
+                success: function (data, status, jqXHR) {
+                    // data 是返回的数据
+                    // textStatus 可能为"success"、"notmodified"等
+                    // jqXHR 是经过jQuery封装的XMLHttpRequest对象
+
+                    returnStr = data.d;//返回数据集
+                    //定义一数组用于存放分割数据
+                    var strArray = new Array();
+                    strArray = returnStr.split("|");//字符分割
+                    var tempStr = "";//用于存放轮播指标					
+                    for (var i = 0; i < strArray.length; i++) {
+
+                        strArray2 = strArray[i].split("@");
+
+                        tempStr += "<div class='gb'><a href='BuyGames.html'><img src='" + strArray2[3] + "' style='width: 100%;'></a><span>" + strArray2[0] + "</span><br><span>" + strArray2[1] + "</span><div>$" + strArray2[2] + "</div></div>";
+
+                    }
+                    $("#showbfd").html(tempStr);
+
+                },
+                error: function () {
+                    //alert("error")
+                }
+            });
+        });
+    </script>
+
+    <script type="text/javascript">
+        //ajax访问WebServer
+        $(document).ready(function () {
+            var backEndUrl = "http://172.16.145.139/netWebServer/WebService1.asmx/Showshop2";//请根据自身部署情况自行修改端口号
+            $.ajax({
+                type: "POST",
+                url: backEndUrl,
+                data: "", //变量名称一定要与接口形参名称相同 data: "{i: 50,j:60}", 
+                contentType: "application/json;charset=utf-8",
+                dataType: 'json',
+                success: function (data, status, jqXHR) {
+                    // data 是返回的数据
+                    // textStatus 可能为"success"、"notmodified"等
+                    // jqXHR 是经过jQuery封装的XMLHttpRequest对象
+
+                    returnStr = data.d;//返回数据集
+                    //定义一数组用于存放分割数据
+                    var strArray = new Array();
+                    strArray = returnStr.split("|");//字符分割
+                    var tempStr = "";//用于存放轮播指标					
+                    for (var i = 0; i < strArray.length; i++) {
+
+                        strArray2 = strArray[i].split("@");
+
+                        tempStr += "<div class='gb'><a href='BuyGames.html'><img src='" + strArray2[3] + "' style='width: 100%;'></a><span>" + strArray2[0] + "</span><br><span>" + strArray2[1] + "</span><div>$" + strArray2[2] + "</div></div>";
+
+                    }
+                    $("#showbnr").html(tempStr);
+
+                },
+                error: function () {
+                    // alert("error")
+                }
+            });
+        });
+    </script>
+
+    <script type="text/javascript">
+        //ajax访问WebServer
+        $(document).ready(function () {
+            var backEndUrl = "http://172.16.145.139/netWebServer/WebService1.asmx/Showshop3";//请根据自身部署情况自行修改端口号
+            $.ajax({
+                type: "POST",
+                url: backEndUrl,
+                data: "", //变量名称一定要与接口形参名称相同 data: "{i: 50,j:60}", 
+                contentType: "application/json;charset=utf-8",
+                dataType: 'json',
+                success: function (data, status, jqXHR) {
+                    // data 是返回的数据
+                    // textStatus 可能为"success"、"notmodified"等
+                    // jqXHR 是经过jQuery封装的XMLHttpRequest对象
+
+                    returnStr = data.d;//返回数据集
+                    //定义一数组用于存放分割数据
+                    var strArray = new Array();
+                    strArray = returnStr.split("|");//字符分割
+                    var tempStr = "";//用于存放轮播指标					
+                    for (var i = 0; i < strArray.length; i++) {
+
+                        strArray2 = strArray[i].split("@");
+
+                        tempStr += "<div class='col-md-6 colstyle freek'><a class='freep' href='BuyGames.html''><img src='" + strArray2[3] + "' style='width: 100%;'><div class='freegame-now'>" + strArray2[2] + "</div></a><span>" + strArray2[0] + "</span><br><span>" + strArray2[1] + "</span></div>";
+                    }
+                    $("#showFG").html(tempStr);
+
+
+                },
+                error: function () {
+                    // alert("error")
+                }
+            });
+            var username = sessionStorage.getItem('username');
+            if (username != null) {
+                $('#singIn').html(username);
+            } else {
+                $('#singIn').html("SIGN IN");
+            }
+
+
+        });
+
+    </script>
+
+
+
+</body>
+
+</html>

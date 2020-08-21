@@ -1,0 +1,101 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>create</title>
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap-theme.css">
+    <link href="css/BuyGames.css" rel="stylesheet">
+
+    <script src="jQuery/jquery.min-2.1.1.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <style>
+        body {
+            background-color: rgb(248, 248, 248);
+        }
+
+        .login-area {
+            background-color: white;
+            margin: 260px auto 0px auto;
+            padding-bottom: 50px;
+            width: 500px;
+            text-align: center;
+        }
+
+        form {
+            margin-bottom: 20px;
+        }
+
+        form input {
+            margin: 20px 0px;
+        }
+
+        form button {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container-fluid">
+
+        <div class="row login-area">
+
+            <h1>EPIC</h1>
+            <h2>创建账户</h2>
+
+            <form action="" method="POST" role="form" style="padding: 0px 50px;">
+                    <input type="text" name="" id="user" class="form-control" placeholder="账号" required="required"
+                    pattern="^[0-9]*$" title="只能是数字">
+                <input type="password" name="" id="password" class="form-control" placeholder="密码" required="required" pattern="^[A-Za-z0-9]+$ "
+                    title="英文或数字">
+                <button type="button" class="btn btn-success" id="sub">注册</button>
+            </form>
+
+            <a href="login.html">已有账号</a>
+
+
+        </div>
+
+    </div>
+    <script type="text/javascript">
+        // $('.toggle').click(function () {
+        //     $(this).children('i').toggleClass('fa-pencil');
+        //     $('.form').animate({ height: "toggle", 'padding-top': 'toggle', 'padding-bottom': 'toggle', opacity: "toggle" }, "slow");
+        // });
+
+        $("#sub").click(function () {
+            var backEndUrl = "http://172.16.145.139/netWebServer/WebService1.asmx/insertUser";
+            //console.info("{name:'" + $('#user').val() + "',password:'" + $('#password').val() + "'}");
+            $.ajax({
+                type: "POST",
+                url: backEndUrl,  // 请求的url地址
+                data: "{name:'" + $('#user').val() + "',password:'" + $('#password').val() + "'}",
+                contentType: "application/json;charset=utf-8",
+                dataType: 'json',
+                //beforeSend: function () {
+                // 发送之前就会进入这个函数
+                // return false 这个ajax就停止了不会发 如果没有return false 就会继续
+                //},
+                success: function (data, status, jqXHR) {
+
+
+                    if (returnStr = data.d)
+                        alert("注册成功！");
+                    // alert(returnStr);
+                },
+                //complete: function () {//不管成功还是失败 都会进这个函数
+                //}
+                error: function () {  //失败的函数
+                    alert("注册失败！");
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>

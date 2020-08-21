@@ -1,0 +1,297 @@
+.BodyStyle {
+    background-color: #121212;
+}
+
+.mw {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.navtop {
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    z-index: 999;
+}
+
+.Snav {
+    background-color: #2a2a2a;
+}
+
+.navbar {
+    margin-bottom: 0px;
+    border-radius: 0px;
+}
+
+.navbar-default {
+    background-color: #2a2a2a;
+    border: 0px;
+    border-color: transparent;
+}
+
+.navbar-toggle {
+    position: relative;
+    float: right;
+    padding: 18px 18px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-color: transparent;
+    background-image: none;
+    border: 0px solid transparent;
+    border-radius: 0px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #C0C0C0;
+}
+
+.search-area {
+    margin: 30px auto;
+}
+
+.img-wrapper {
+    width: 100%;
+}
+
+.lunbo-area {
+    margin-bottom: 60px;
+}
+
+.colstyle {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.btncss {
+    float: right;
+    color: white;
+    background: none;
+    border: 1px solid #757575;
+    padding: 5px 10px;
+}
+
+.btncss:hover {
+    border: 1px solid #AAAAAA;
+}
+
+.xacss {
+    color: rgb(160, 160, 160);
+    font-size: 10px;
+    height: 34px;
+    line-height: 34px;
+}
+
+.xacss:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.spancss {
+    color: white;
+    font-size: 16px;
+    height: 32px;
+    line-height: 32px;
+}
+
+.dha {
+    color: white;
+    font-size: 12px;
+}
+
+.gb {
+    float: left;
+    width: 20%;
+    padding: 0px 8px;
+}
+
+.gb div {
+    margin-top: 10px;
+}
+
+.gb a {
+    display: block;
+    background-color: #ffffff;
+}
+
+.gb a:hover .g-area-lei {
+    opacity: 0.9;
+}
+
+.gb a:hover img {
+    opacity: 0.9;
+}
+
+.g-area {
+    margin-bottom: 60px;
+}
+
+.freek {
+    padding: 0 8px;
+}
+
+.freep {
+    display: block;
+    background-color: white;
+}
+
+.freep:hover img {
+    opacity: 0.9;
+}
+
+.freegame-now {
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    margin-bottom: 10px;
+    color: white;
+    background-color: rgb(0, 120, 242);
+}
+
+.freegame-soon {
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    margin-bottom: 10px;
+    color: white;
+    background-color: black;
+}
+
+.freek a:hover {
+    text-decoration: none;
+}
+
+.g-area-dan-fk {
+    padding-top: 8rem;
+    padding-left: 4rem;
+    padding-bottom: 5rem;
+}
+
+.g-area-dan-fk h4 {
+    color: white;
+    font-size: 3rem;
+}
+
+.g-area-dan-fk p {
+    color: #BBBBBB;
+    font-size: 2rem;
+    width: 25rem;
+}
+
+.g-area-dan-fk a {
+    display: block;
+    padding: 18px 0;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 1rem;
+    width: 200px;
+}
+
+.fka1 {
+    background-color: rgb(103, 154, 168);
+}
+
+.fka2 {
+    background-color: rgb(105, 52, 127);
+}
+
+.fka3 {
+    background-color: rgb(83, 83, 83);
+}
+
+.g-area-dan-fk a:hover {
+    text-decoration: none;
+    background-color: rgba(221, 221, 221, 0.37);
+}
+
+.g-area-lei {
+    /* width: 16.9rem; */
+    width: 100%;
+    height: 15.8rem;
+    line-height: 15.8rem;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
+
+.gb a:hover {
+    text-decoration: none;
+}
+
+.footer {
+    padding: 0px 70px 40px 70px;
+    background-color: rgb(42, 42, 42);
+}
+
+.footer-icon {
+    margin: 36px -16px;
+}
+
+.footer-label {
+    float: left;
+}
+
+.footer-label a {
+    line-height: 50px;
+    color: #BBBBBB;
+}
+
+.footer-label a:hover {
+    text-decoration: none;
+    color: rgb(109, 109, 109);
+}
+
+.footer-top {
+    float: right;
+    text-align: right;
+}
+
+.footer-label img:hover {
+    background: rgb(42, 42, 42);
+    opacity: 0.7;
+}
+
+.footer-top img:hover {
+    background: rgb(42, 42, 42);
+    opacity: 0.7;
+}
+
+.footer-link-area {
+    border-bottom: 1px solid rgb(51, 51, 51);
+    padding-bottom: 10px;
+}
+
+.footer-h5 {
+    color: rgb(107, 107, 107);
+}
+
+.footer-link {
+    float: left;
+    margin: 0 16px 6px 0;
+}
+
+.footer-link a {
+    color: #BBBBBB;
+    line-height: 26px;
+}
+
+.footer-link a:hover {
+    color: rgb(109, 109, 109);
+    text-decoration: none;
+}
+
+@media screen and (max-width:800px) {
+    .footer {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+
+.footer-zhu {
+    margin: 30px 0px;
+}
+
+.footer-zhu p {
+    color: #BBBBBB;
+}
